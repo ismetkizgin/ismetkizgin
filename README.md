@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm İsmet Kizgin. I am a student of Software Engineering at Manisa Celal Bayar University. My area of ​​expertise is back-end softwares.
 
+**💬 Ask me anything or read my blog: [ismetkizgin.com](https://ismetkizgin.com/)**
+
 **📫 Where to find me:**
 <a href="https://www.linkedin.com/in/ismetkizgin" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ismetkizgin">
