@@ -50,3 +50,5 @@ I'm İsmet Kizgin. I am a student of Software Engineering at Manisa Celal Bayar 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ismetkizgin&theme=dracula&column=7" alt="ismetkizgin" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ismetkizgin&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="ismetkizgin" width="50%" /></p>
