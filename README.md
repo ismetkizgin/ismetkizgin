@@ -24,6 +24,7 @@ I'm İsmet Kizgin. I am a student of Software Engineering at Manisa Celal Bayar 
 * [Mysql helper library. **fadab-mysql-helper**](https://www.npmjs.com/package/fadab-mysql-helper)
 * [Angular table search filter. **ng-search-filter**](https://www.npmjs.com/package/ng-search-filter)
 * [Turkey provincial, district and neighborhood data is. **turkey-yl-district**](https://www.npmjs.com/package/turkey-yl-district)
+* [Elastic search via GraphQL. **@brewww/graphql-compose-elasticsearch**](https://www.npmjs.com/package/@brewww/graphql-compose-elasticsearch)
 
 **👨🏻‍💻 Technologies I have worked with until today:** 
 
