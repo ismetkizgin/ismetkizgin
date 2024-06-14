@@ -27,30 +27,5 @@ I'm İsmet Kizgin. I am a student of Software Engineering at Manisa Celal Bayar 
 * [Elastic search via GraphQL. **@brewww/graphql-compose-elasticsearch**](https://www.npmjs.com/package/@brewww/graphql-compose-elasticsearch)
 * [Pagination for Angular. **ngx-ik-pagination**](https://www.npmjs.com/package/ngx-ik-pagination)
 
-**👨🏻‍💻 Technologies I have worked with until today:** 
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://github.com/cncf/landscape/blob/master/hosted_logos/openfaas.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ismetkizgin&theme=dracula&column=7" alt="ismetkizgin" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ismetkizgin&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="ismetkizgin" width="50%" /></p>
