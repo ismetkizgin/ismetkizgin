@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm İsmet Kizgin. I am a student of Software Engineering at Manisa Celal Bayar University. My area of ​​expertise is back-end softwares.
+### Hi 👋, I'm İsmet Kizgin!
+I’m a Software Engineering graduate from Manisa Celal Bayar University and currently working as a professional Full Stack Developer. I specialize in back-end development, building scalable and efficient systems, but I also enjoy working on the front-end to create seamless user experiences.
 
 **💬 Ask me anything or read my blog: [ismetkizgin.com](https://ismetkizgin.com/)**
 
